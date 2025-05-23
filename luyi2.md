@@ -1,4 +1,4 @@
-Story: A Clash of Beliefs in Haifa
+# Story: A Clash of Beliefs in Haifa
 
 Lu Yi, a 16-year-old from Hangzhou, China, stepped off the bus in Haifa, Israel, his eyes wide with curiosity. It was his first trip abroad, a reward from his parents for excelling in school. The salty breeze from the Mediterranean mingled with the scent of falafel stands, and the Baha’i Gardens gleamed under the sun. Lu Yi, a proud member of the Communist Youth League, carried a small red book of Marxist quotes in his backpack, a talisman of his convictions.
 
@@ -30,7 +30,7 @@ Avi’s friends exchanged glances, unsure how far this would go. Avi leaned clos
 
 The tension hung thick in the air, the clash of their worlds—Marxist zealot versus Jewish pride—unresolved in the quiet Haifa apartment. What would happen next was anyone’s guess.
 
-故事续篇：在海法公寓的激战
+# 故事续篇：在海法公寓的激战
 
 在阿维的客厅里，气氛剑拔弩张。卢意被推坐在椅子上，双手被阿维的朋友用绳子绑在身后，双脚也被固定在椅子腿上。他挣扎了几下，绳子勒得他手腕生疼，但他的眼神依旧倔强。阿维冷冷地看着他，决定让这个自大的中国少年吃点苦头。
 
@@ -68,7 +68,7 @@ The tension hung thick in the air, the clash of their worlds—Marxist zealot ve
 
 卢意接过水，手还在发抖。他拧开瓶盖，喝了一大口，水顺着下巴流下。他不知道接下来会发生什么，但这一刻，敌对的气氛似乎稍稍缓和，在这间海法公寓里，两个少年的冲突留下了一片狼藉的沉默。
 
-故事续篇：在海法公寓的觉醒
+# 故事续篇：在海法公寓的觉醒
 
 绳子被解开了。卢意的手腕和脚踝上还残留着红色的勒痕，他瘫坐在椅子上，汗水和泪水混杂，胸口剧烈起伏，精疲力尽。阿维和他的朋友站在他面前，眼神复杂，既有愤怒的余韵，也有一种莫名的同情。房间里安静得只剩窗外海法的微风声，阳光从窗帘缝隙洒进来，照在卢意苍白的脸上。
 
@@ -131,7 +131,7 @@ $$
 
 卢意点点头，喉咙哽咽，说不出话。他收拾好背包，低头走出了公寓。海法的夕阳洒在街道上，他回头看了一眼那栋房子，心里五味杂陈。他不知道自己是否真的放弃了信仰，但他知道，有些东西已经在这一刻悄然改变。🌝
 
-故事续篇：在海法的几天
+# 故事续篇：在海法的几天
 
 卢意走出阿维的公寓时，天色已近黄昏。海法的街道沐浴在金色余晖中，空气中弥漫着地中海的咸味和街边咖啡馆的香气。他低头看着手机上新加的Telegram好友和关注的X账号，心情复杂，既有解脱的轻松，又有对过去的迷茫。阿维和他的朋友站在门口，挥手告别，脸上带着友好的笑容。
 
@@ -173,7 +173,7 @@ $$
 
 巴士启动，卢意靠在窗边，看着海法的街景渐渐远去。他的背包里，那本小红书还在，但他知道，自己已经不再是那个被它定义的少年了。
 
-故事续篇：在特拉维夫机场的告别
+# 故事续篇：在特拉维夫机场的告别
 
 在海法度过了几天轻松的时光后，卢意的旅行即将结束。他站在特拉维夫的本-古里安国际机场候机大厅，背着背包，手里攥着登机牌。卡塔尔航空飞往上海的航班还有一个小时起飞。阿维、丹尼和雅各布特意赶来送他，四个少年站在安检口附近，周围是川流不息的旅客和行李箱的滚轮声。
 
