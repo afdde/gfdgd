@@ -60,7 +60,7 @@ The tension hung thick in the air, the clash of their worlds—Marxist zealot ve
 卢意低着头，双手抓着裤腿，没有力气反驳，也不敢抬头看他们的眼睛。他的喉咙干涩，脑子里一片混乱。阿维继续说：“Look at us. Me and my friends here, we go to school, we play soccer, we hang out at the beach. In America, kids are the same—happy, chilling, no crazy pressure. We’ve got freedom to live, to think. You ever think about that? Your system… it’s crushing you.”
 另一个朋友，名叫丹尼，插话道：“Yeah, man, I’ve got cousins in the States. They’ve got no insane homework, no teachers screaming at them. School’s chill, rules are loose. They’re not stressing out like you seem to be.”
 卢意沉默着。他知道这些。他在新闻里看过美国和以色列的生活，轻松的校园，自由的氛围，但他一直觉得那是“颓废”，是资本主义腐朽的象征。《资本论》告诉他，这种生活方式注定会被无产阶级的铁拳粉碎。可是现在，看着面前这几个犹太少年，他们的眼神真诚，笑容轻松，卢意心里那堵坚硬的墙开始动摇。他想反驳，引用马克思的阶级斗争理论，但他张了张嘴，却什么也说不出。
-他的脑海里浮现出一段不堪的回忆。那是高一的物理课，他的物理成绩一直不好。那天，他忘了动量定理的公式：
+他的脑海里浮现出一段不堪的回忆。那是高二的物理课，他的物理成绩一直不好。那天，他忘了动量定理的公式：
 
 $$
 \vec{F}_{\text{合}} \cdot \Delta t = \Delta \vec{p} = m \vec{v}_2 - m \vec{v}_1
